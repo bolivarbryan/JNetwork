@@ -6,7 +6,8 @@
 //  Copyright (c) 2013 Jeremy Tregunna. All rights reserved.
 //
 
-#import <JNetwork/JRemoteOperation.h>
-#import <JNetwork/JJSONOperation.h>
-#import <JNetwork/JImageOperation.h>
 #import <Foundation/Foundation.h>
+
+#import "JJSONOperation.h"
+#import "JImageOperation.h"
+#import "JRemoteOperation.h"
